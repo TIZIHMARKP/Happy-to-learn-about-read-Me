@@ -42,7 +42,7 @@
  <mark>About page</mark>
 
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam blanditiis ut cupiditate, consequatur hic dolore veniam, iste tenetur voluptas ~~Navbar~~ fugiat dolor vel
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam blanditiis ut cupiditate, consequatur hic dolore veniam. Isteer tenetur voluptas ~~Navbar~~ fugiat dolor vel
 
 <mark>Side Bar</mark>
 
